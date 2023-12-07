@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Siril</h1>
-<h3 align="center">A primary school teacher who plunged into the world of coding, and became a Frontend student.</h3>
+<h3 align="center">A Primary School Teacher who plunged into the world of coding, and became a Frontend student.</h3>
 
 
 
