@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Siril</h1>
 <h3 align="center">A primary school teacher who plunged into the world of coding, and became a Frontend student.</h3>
 
+
+
 - 👀 I’m interested in people, good food and wine, outdoor life, coding and design. 
 - 🔭 I’m currently working on **my exciting frontend studies and improving both my coding and cooking skills**.
 - 🌱 I’m currently learning **the noble art of ✨Java Script✨, to learn from my defets and appriciate the tings I do manage**.
