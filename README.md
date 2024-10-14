@@ -3,7 +3,7 @@
 <h3>I'm a soon-to-be frontend developer with a background in teaching and a passion for the intersection of technology, learning, and pedagogy.</h3>
 <br>
 
-🔭 I’m currently working on my final exam, building a frontend for an accommodation booking site application.<br><br>🌱 I’m learning React and loving how its component-based architecture allows for efficient and reusable code.<br><br>👯 I'm eager to collaborate and learn from developers, designers, and professionals with experience in related fields to create impactful projects.<br><br>🤝 I'm open to job opportunities and ready to contribute to projects both independently and as part of a team.<br><br>👀 When I'm not designing or coding, I enjoy connecting with people, indulging in good food and wine, and spending time outdoors.<br><br>💬 Feel free to contact me on LinkedIn or GitHub—I'm always up for a chat.<br>
+🔭 I’m currently working on my final exam, building a frontend for an accommodation booking site application.<br><br>🌱 I’m learning React and loving how its component-based architecture allows for efficient and reusable code.<br><br>👯 I'm eager to collaborate and learn from developers, designers, and professionals with experience in related fields to create impactful projects.<br><br>🤝 I'm open to job opportunities and ready to contribute to projects both independently and as part of a team.<br><br>👀 When I'm not designing or coding, I enjoy connecting with people, indulging in good food and wine, and spending time outdoors.<br><br>💬 Feel free to contact me on LinkedIn - I'm always up for a chat.<br>
 <br>
 <br>
 
